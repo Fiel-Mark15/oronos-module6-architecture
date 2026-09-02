@@ -20,6 +20,10 @@ management responsibilities.
 ## 3. Architectural Components
 
 ### Presentation Layer
+
+Module 9 Evolution: Status Filter button 
+added to Presentation Layer (filterStatus computed in App.vue)
+
 The presentation layer will use Vue.js. It will display the book
 catalog, collect login and borrowing input from users, and send
 requests to the backend.
